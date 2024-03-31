@@ -1,3 +1,5 @@
+// https://www.naukri.com/code360/problems/switch-case-statement_8357244?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf
+
 double areaSwitchCase(int ch, vector<double> a) {
 	switch (ch){
 	case 1:

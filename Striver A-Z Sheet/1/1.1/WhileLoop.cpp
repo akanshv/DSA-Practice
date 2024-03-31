@@ -1,3 +1,4 @@
+// https://www.naukri.com/code360/problems/sum-of-even-odd_624650?utm_source=striver&utm_medium=website&utm_campaign=a_zcoursetuf
 #include<iostream>
 using namespace std;
 
